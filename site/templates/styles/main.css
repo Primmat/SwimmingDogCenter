@@ -1,0 +1,92 @@
+.logo {
+    max-width: 100%;
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin: 15px;
+}
+
+.nadpis {
+    margin-top: 20px;
+    color: white;
+}
+
+.div_hlavniho_nadpisu {
+    background-color: lightskyblue;
+}
+
+.div_copyrightu {
+    background-color:lightskyblue;
+}
+
+.copyright {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 0;
+}
+
+.hlavni_nadpis {
+    color: white;
+    margin: 0;
+}
+
+.barva_menu_pozadi {
+    background-color: #66ccff !important;
+}
+
+.barva_menu_odkazu {
+    color: white !important;
+}
+
+.pozadi_nadpisu {
+    background-color: lightskyblue;
+}
+
+.pozadi_slideru {
+    background-color: #66ccff;
+}
+
+.vyhody {
+    color: white;
+}
+
+.tabulka_a_pravidla {
+    text-align: center;
+    color: white;
+}
+
+.druhy_sluzeb {
+    color: white;
+}
+
+.popis_fungovani {
+    text-align: center;
+    color: white;
+}
+
+.blok_informaci {
+    color: white;
+}
+
+.tlacitko_rezervace {
+    color: white;
+    background-color: #66ccff;
+}
+
+.onas {
+    color:white;
+    text-align: center;
+}
+
+.container_pozadi {
+    background-color: #66ccff;
+}
+
+.odsazeni_formulare {
+    margin-top: 30px;
+}
+
+table {
+    background-color: lightskyblue;
+}

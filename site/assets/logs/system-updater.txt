@@ -1,0 +1,37 @@
+2020-12-03 07:32:59	Update #8: Completed!
+2020-12-03 07:32:59	Update #9: Initializing update
+2020-12-03 07:33:00	Update #9: Added: Pages > Recent
+2020-12-03 07:33:00	Update #9: Completed!
+2020-12-03 07:33:15	Update #10: Initializing update
+2020-12-03 07:33:17	Update #10: Installed ProcessLogger and added: Setup > Logs
+2020-12-03 07:33:17	Update #10: Installed InputfieldIcon
+2020-12-03 07:33:17	Update #10: Completed!
+2020-12-03 07:33:20	Update #11: Initializing update
+2020-12-03 07:33:20	Update #11: Completed!
+2020-12-03 07:33:20	Update #17: Created: /site/assets/.htaccess
+2020-12-03 07:33:20	Update #17: Created: /site/templates/.htaccess
+2020-12-03 07:33:20	Update #17: Created: /site/modules/.htaccess
+2020-12-03 07:33:21	Update #12: Initializing update
+2020-12-03 07:33:21	Update #12: Added 'published' column to pages table
+2020-12-03 07:33:21	Update #12: Populated values to 'published' for 43 pages
+2020-12-03 07:33:21	Update #12: Completed!
+2020-12-03 07:33:21	Update #13: Initializing update
+2020-12-03 07:33:22	Update #13: Completed!
+2020-12-03 07:33:22	Update #14: Initializing update
+2020-12-03 07:33:22	Update #14: Completed!
+2020-12-03 07:33:22	Update #15: Initializing update
+2020-12-03 07:33:23	Update #15: Completed!
+2020-12-03 07:33:23	Update #16: Initializing update
+2020-12-03 07:33:24	Update #16: Completed!
+2020-12-03 07:33:36	Update #17: Initializing update
+2020-12-03 07:33:36	Update #17: Skipped: /site/.htaccess (already exists)
+2020-12-03 07:33:36	Update #17: Skipped: /site/assets/.htaccess (already exists)
+2020-12-03 07:33:36	Update #17: Skipped: /site/assets/cache/.htaccess (already exists)
+2020-12-03 07:33:36	Update #17: Skipped: /site/assets/backups/.htaccess (already exists)
+2020-12-03 07:33:36	Update #17: Skipped: /site/assets/logs/.htaccess (already exists)
+2020-12-03 07:33:37	Update #17: Skipped: /site/templates/.htaccess (already exists)
+2020-12-03 07:33:37	Update #17: Skipped: /site/modules/.htaccess (already exists)
+2020-12-03 07:33:37	Update #17: Details: <a href='https://processwire.com/blog/posts/pw-3.0.135/' target='_blank'>https://processwire.com/blog/posts/pw-3.0.135/</a>
+2020-12-03 07:33:37	Update #17: Completed!
+2020-12-03 07:33:37	Update #18: Initializing update
+2020-12-03 07:33:37	Update #18: Completed!

@@ -1,0 +1,69 @@
+2020-12-03 07:33:53	admin	http://swimmingdogcenter.test/	Compiled file: /site/templates/home.php
+2020-12-10 08:03:52	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/home.php
+2021-03-10 14:59:26	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 15:01:14	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 15:01:23	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 15:01:28	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:32:46	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/home.php
+2021-03-10 17:32:46	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:32:46	admin	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-03-10 17:33:08	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:34:41	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/home.php
+2021-03-10 17:34:41	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:35:24	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:35:32	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:36:50	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:37:50	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:38:13	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:38:28	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:38:43	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:39:01	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-10 17:39:52	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:18:35	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:45:38	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:49:19	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:52:33	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:52:50	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:54:27	admin	http://swimmingdogcenter.test/sluzby/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:56:29	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 07:57:07	admin	http://swimmingdogcenter.test/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-03-11 08:03:05	admin	http://swimmingdogcenter.test/processwire/module/download/	Zkompilovaný soubor: /site/modules/TracyDebugger/TracyDebugger.module.php
+2021-03-11 08:03:14	admin	http://swimmingdogcenter.test/processwire/module/	Compiled file: /site/modules/TracyDebugger/ProcessTracyAdminer.module.php
+2021-03-11 08:03:15	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/tracy-2.8.x/src/tracy.php
+2021-03-11 08:03:15	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/tracy-2.8.x/src/Tracy/Bar/Bar.php
+2021-03-11 08:03:15	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/tracy-2.8.x/src/Tracy/Bar/DefaultBarPanel.php
+2021-03-11 08:03:15	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/tracy-2.8.x/src/Tracy/BlueScreen/BlueScreen.php
+2021-03-11 08:03:15	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/tracy-2.8.x/src/Tracy/Dumper/Dumper.php
+2021-03-11 08:03:15	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/tracy-2.8.x/src/Tracy/Debugger/Debugger.php
+2021-03-11 08:03:16	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/includes/TD.php
+2021-03-11 08:03:17	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/includes/BasePanel.php
+2021-03-11 08:03:18	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/panels/ProcesswireInfoPanel.php
+2021-03-11 08:03:20	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/panels/RequestInfoPanel.php
+2021-03-11 08:03:20	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/panels/ProcesswireLogsPanel.php
+2021-03-11 08:03:21	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/panels/TracyLogsPanel.php
+2021-03-11 08:03:22	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/panels/DebugModePanel.php
+2021-03-11 08:03:25	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/panels/ConsolePanel.php
+2021-03-11 08:03:28	admin	http://swimmingdogcenter.test/processwire/module/edit?name=TracyDebugger	Zkompilovaný soubor: /site/modules/TracyDebugger/includes/PwApiData.php
+2021-03-16 06:56:55	guest	http://swimmingdogcenter.test/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-03-23 16:18:32	guest	http://swimmingdogcenter.test/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/basic-page.php => /site/assets/cache/FileCompiler/site/templates/basic-page.php
+2021-03-23 16:18:32	guest	http://swimmingdogcenter.test/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-03-23 16:18:32	guest	http://swimmingdogcenter.test/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/includes/paticka.php => /site/assets/cache/FileCompiler/site/templates\includes/paticka.php
+2021-03-23 16:18:32	guest	http://swimmingdogcenter.test/processwire/login/	Maintenance/Copy new version of source file to target file: /site/templates/kontakt.php => /site/assets/cache/FileCompiler/site/templates/kontakt.php
+2021-03-25 08:27:29	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/formular.php => /site/assets/cache/FileCompiler/site/templates/formular.php
+2021-03-25 08:27:29	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-03-25 08:27:30	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/sluzby.php => /site/assets/cache/FileCompiler/site/templates/sluzby.php
+2021-04-02 08:25:21	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-04-02 08:25:21	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/paticka.php => /site/assets/cache/FileCompiler/site/templates\includes/paticka.php
+2021-04-04 11:37:00	admin	http://swimmingdogcenter.test/processwire/access/roles/navJSON/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/sluzby.php
+2021-04-07 14:29:29	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/basic-page.php => /site/assets/cache/FileCompiler/site/templates/basic-page.php
+2021-04-07 14:29:29	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-04-08 14:37:45	guest	http://swimmingdogcenter.test/	Maintenance/Remove target file: /site/assets/cache/FileCompiler/site/templates/cenik.php
+2021-04-08 14:37:45	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-04-08 14:37:45	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/paticka.php => /site/assets/cache/FileCompiler/site/templates\includes/paticka.php
+2021-04-09 17:39:30	admin	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-04-10 17:47:08	admin	http://swimmingdogcenter.test/processwire/page/edit/?id=1021	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-04-12 11:48:20	admin	http://swimmingdogcenter.test/pravidla/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-04-12 11:48:33	admin	http://swimmingdogcenter.test/pravidla/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-04-12 11:49:14	admin	http://swimmingdogcenter.test/pravidla/	Zkompilovaný soubor: /site/templates/basic-page.php
+2021-04-13 14:26:40	guest	http://swimmingdogcenter.test/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php
+2021-04-14 14:31:24	admin	http://swimmingdogcenter.test/cenik/	Maintenance/Copy new version of source file to target file: /site/templates/includes/hlavicka.php => /site/assets/cache/FileCompiler/site/templates\includes/hlavicka.php

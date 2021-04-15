@@ -1,0 +1,26 @@
+2020-12-03 07:40:30	admin	http://swimmingdogcenter.test/processwire/module/	Populated initial created/modified dates for 'language_files_site'
+2020-12-03 07:40:30	admin	http://swimmingdogcenter.test/processwire/module/	Populated initial created/modified dates for 'language_files'
+2020-12-03 07:50:40	admin	http://swimmingdogcenter.test/processwire/profile/	Profil uložen - admin_theme, language
+2020-12-03 08:12:56	admin	http://swimmingdogcenter.test/processwire/page/edit/?id=1	Populated initial created/modified dates for 'obrazek'
+2021-03-22 17:43:12	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "text" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "kontakt". [vedle-sebe]
+2021-03-29 18:00:10	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "text" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "basic-page". [vedle-sebe]
+2021-03-29 18:02:39	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "text" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "home". [vedle-sebe]
+2021-04-03 13:11:02	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "text" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "basic-page". [vedle-sebe]
+2021-04-06 16:16:55	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "vyhody" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "basic-page". [vedle-sebe]
+2021-04-06 16:16:55	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "vhodnost" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "basic-page". [vedle-sebe]
+2021-04-06 16:16:55	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "pravidla" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "basic-page". [vedle-sebe]
+2021-04-06 16:20:20	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "textovepole" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "home". [vedle-sebe]
+2021-04-07 17:12:21	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "textovepole" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "sluzby". [vedle-sebe]
+2021-04-07 18:33:11	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "sluzby" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "sluzby". [vedle-sebe]
+2021-04-07 18:33:11	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "popis" v řádku (řádcích) 0 ze stránky (stránek) používající šablonu "sluzby". [vedle-sebe]
+2021-04-07 19:05:30	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "textovepole" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "cenik". [vedle-sebe]
+2021-04-07 19:11:41	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "textovepole" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "kontakt". [vedle-sebe]
+2021-04-07 19:11:41	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "odkaz" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "kontakt". [vedle-sebe]
+2021-04-08 07:49:23	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "vyhody" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "home". [vedle-sebe]
+2021-04-08 07:49:23	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "vhodnost" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "home". [vedle-sebe]
+2021-04-08 07:52:11	admin	http://swimmingdogcenter.test/processwire/page/sort/	Updated sort for 3 pages
+2021-04-08 07:52:16	admin	http://swimmingdogcenter.test/processwire/page/sort/	Updated sort for 2 pages
+2021-04-08 07:52:28	admin	http://swimmingdogcenter.test/processwire/page/sort/	Updated sort for 3 pages
+2021-04-08 07:52:34	admin	http://swimmingdogcenter.test/processwire/page/sort/	Updated sort for 2 pages
+2021-04-08 07:58:23	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "onas" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "home". [vedle-sebe]
+2021-04-08 07:58:23	admin	http://swimmingdogcenter.test/processwire/setup/template/removeFields	Odstraněna data pole "pravidla" v řádku (řádcích) 1 ze stránky (stránek) používající šablonu "home". [vedle-sebe]

@@ -1,0 +1,72 @@
+2020-12-03 07:33:20	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2020-12-10 07:09:06	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-01-14 07:16:41	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-02-25 07:09:58	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-08 14:23:34	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-09 15:53:52	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-10 14:56:21	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-10 18:20:34	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-11 06:52:57	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-16 06:56:59	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-20 11:34:54	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-22 14:27:19	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-22 17:45:34	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-22 17:57:14	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-23 07:11:33	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-23 16:18:39	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-25 08:27:35	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-03-29 13:27:54	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-03-30 06:14:33	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-02 08:25:26	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-02 08:25:42	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-02 09:26:28	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-02 09:28:01	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-03 10:09:11	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-04 08:25:27	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-06 05:57:58	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-06 14:28:48	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-06 15:32:34	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-06 15:35:15	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-07 14:34:19	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-07 15:23:39	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-07 18:24:57	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-08 06:22:45	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-08 06:51:33	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-08 06:56:58	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-08 08:15:56	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-08 08:17:28	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-08 14:37:56	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-09 13:42:19	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-09 14:00:59	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-09 14:03:38	admin	http://swimmingdogcenter.test/processwire/login/?id=1029	Successful login for 'admin'
+2021-04-09 14:03:50	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-09 14:04:00	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-09 14:04:54	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-10 09:29:16	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-10 13:08:15	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-12 11:43:38	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-12 14:25:37	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-12 15:23:02	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-12 15:24:07	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-12 15:32:49	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-12 15:41:17	admin	http://swimmingdogcenter.test/processwire/login/?id=1	Successful login for 'admin'
+2021-04-12 16:46:32	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-12 17:47:24	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-12 17:48:50	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-13 06:12:27	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-13 07:13:28	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 14:26:50	admin	http://swimmingdogcenter.test/processwire/login/?id=1021	Successful login for 'admin'
+2021-04-13 15:08:55	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 15:38:27	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-13 15:59:25	admin	http://swimmingdogcenter.test/processwire/login/logout/	Logout for 'admin'
+2021-04-13 15:59:28	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-13 16:42:04	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-13 16:49:09	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-14 08:17:26	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-14 13:12:47	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-14 13:46:22	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-14 13:47:05	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
+2021-04-14 13:54:39	?	?	User 'admin' - Error: Session fingerprint changed (IP address or useragent) (IP: 127.0.0.1)
+2021-04-14 13:59:23	admin	http://swimmingdogcenter.test/processwire/login/?id=1023	Successful login for 'admin'
+2021-04-14 16:00:48	admin	http://swimmingdogcenter.test/processwire/login/logout/	Logout for 'admin'
+2021-04-14 16:08:49	admin	http://swimmingdogcenter.test/processwire/login/	Successful login for 'admin'
